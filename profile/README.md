@@ -33,12 +33,12 @@ BLOCK   → 70–100
 
 ## SDKs
 
-| Package | Description |
-|---------|-------------|
-| [ts-sdk](https://github.com/skala-inc/ts-sdk) | TypeScript / Node SDK |
-| [py-sdk](https://github.com/skala-inc/py-sdk) | Python SDK |
-| [go-sdk](https://github.com/skala-inc/go-sdk) | Go SDK |
-| [browser-sdk](https://github.com/skala-inc/browser-sdk) | Browser SDK |
+Available via npm and PyPI:
+
+- `@skala/ts-sdk` — TypeScript / Node
+- `skala` — Python
+- `github.com/skala-inc/go-sdk` — Go
+- `@skala/browser-sdk` — Browser
 
 ---
 
