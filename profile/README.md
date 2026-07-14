@@ -1,4 +1,4 @@
-<![CDATA[<p align="center">
+<p align="center">
   <img src="img/logo.png" alt="Skala" width="120" />
 </p>
 
@@ -69,4 +69,3 @@ const result = await skala.score({
 
 - [Website](https://skala.dev)
 - [Documentation](https://docs.skala.dev)
-]]>
