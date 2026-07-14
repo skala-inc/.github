@@ -31,19 +31,14 @@ BLOCK   → 70–100
 
 ---
 
-## SDKs & Packages
+## SDKs
 
 | Package | Description |
 |---------|-------------|
-| [ts-sdk](https://github.com/skala-inc/ts-sdk) | Official TypeScript / Node SDK |
-| [py-sdk](https://github.com/skala-inc/py-sdk) | Official Python SDK |
-| [go-sdk](https://github.com/skala-inc/go-sdk) | Official Go SDK |
-| [browser-sdk](https://github.com/skala-inc/browser-sdk) | Browser-side SDK |
-| [skala-backend](https://github.com/skala-inc/skala-backend) | Core API & detection engine |
-| [skala-frontend](https://github.com/skala-inc/skala-frontend) | Dashboard & management UI |
-| [skills-platform](https://github.com/skala-inc/skills-platform) | Skills & integrations platform |
-| [skala-bot](https://github.com/skala-inc/skala-bot) | Bot & automation tooling |
-| [model-api](https://github.com/skala-inc/model-api) | ML model serving API |
+| [ts-sdk](https://github.com/skala-inc/ts-sdk) | TypeScript / Node SDK |
+| [py-sdk](https://github.com/skala-inc/py-sdk) | Python SDK |
+| [go-sdk](https://github.com/skala-inc/go-sdk) | Go SDK |
+| [browser-sdk](https://github.com/skala-inc/browser-sdk) | Browser SDK |
 
 ---
 
